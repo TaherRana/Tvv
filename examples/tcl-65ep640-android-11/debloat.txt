@@ -1,4 +1,4 @@
-﻿# TCL 65EP640 (ro.product.model BeyondTV), Android TV 11 (API 30), build PPR1.180610.011,
+# TCL 65EP640 (ro.product.model BeyondTV), Android TV 11 (API 30), build PPR1.180610.011,
 # fingerprint TCL/BeyondTV/BeyondTV:11/PPR1.180610.011/AR05:user/release-keys, ro.adb.secure=1.
 # Same firmware family and package set as examples/tcl-55ep640 (Android TV 11): every package below is on that list.
 # The folder examples/tcl-65ep640 is the same model on older firmware (Android TV 9, AP06) with its own package set.
